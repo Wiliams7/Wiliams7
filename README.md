@@ -60,6 +60,4 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Wiliams7/Wiliams7/snake-output/snake.svg" alt="Snake animation" />
 
-###
